@@ -1,0 +1,23 @@
+[
+  
+  {
+    "Editorial": "Bloomsbury Salamandra Scholastic",
+    "Categoria": "Ficcion",
+    "Autor": "J.K Rowling",
+    "Codigo_del_producto": "02",
+    "Nombre_del_producto": "Harry Potter Vol2",
+    "Descripcion_del_producto": "Libro",
+    "Precio_de_compra": "300",
+    "Precio_de_venta": "500"
+  },
+  {
+    "Editorial": "Bloomsbury Salamandra Scholastic",
+    "Categoria": "Ficcion",
+    "Autor": "J.K Rowling",
+    "Codigo_del_producto": "03",
+    "Nombre_del_producto": "Harry Potter Vol3",
+    "Descripcion_del_producto": "Libro",
+    "Precio_de_compra": "300",
+    "Precio_de_venta": "500"
+  }
+]
